@@ -1,0 +1,4 @@
+
+ERROR: 0:106: '' : geometry shader output layout primitive type must be the same as previously set 
+
+
